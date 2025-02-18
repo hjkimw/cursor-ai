@@ -23,7 +23,7 @@
 
 <br>
 
-2.2.`.cursorrules`에 입력 한다.   
+2.2.`.cursorrules`파일에 copy한 prompt를 입력 한다.   
 ![cursor.directory-rules](./images/cursor-setting/cursor.directory-rules-2.png)
 
 <br>

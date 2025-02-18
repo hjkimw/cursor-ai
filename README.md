@@ -18,7 +18,7 @@
 
 ### 2. **`.cursorrules` 파일 생성**    
       
-2.1. **[cursor.directory](https://cursor.directory/rules)** 에서 개발할때 Cursor AI에게 적용할 prompt를 선택   
+2.1. **[cursor.directory](https://cursor.directory/rules)** 에서 개발할때 Cursor AI에게 적용할 prompt를 선택해서 copy 한다.  
 ![cursor.directory-rules](./images/cursor-setting/cursor.directory-rules-1.png)
 
 <br>
